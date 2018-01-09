@@ -10,15 +10,15 @@
             btn2.Enabled = False
         End If
         If btn3.Enabled = True Then
-            btn3.Text = "O"
+            btn3.Text = "1"
             btn3.Enabled = False
         End If
         If btn4.Enabled = True Then
-            btn4.Text = "O"
+            btn4.Text = "1"
             btn4.Enabled = False
         End If
         If btn5.Enabled = True Then
-            btn5.Text = "O"
+            btn5.Text = "1"
             btn5.Enabled = False
         End If
         If btn6.Enabled = True Then

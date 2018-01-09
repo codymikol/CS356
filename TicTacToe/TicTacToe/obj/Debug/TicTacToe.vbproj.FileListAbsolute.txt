@@ -8,3 +8,15 @@ c:\users\guptap\documents\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\De
 c:\users\guptap\documents\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 c:\users\guptap\documents\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.xml
 c:\users\guptap\documents\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\bin\Debug\TicTacToe.xml
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbprojResolveAssemblyReference.cache
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Resources.resources
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.GenerateResource.Cache
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.CoreCompileInputs.cache
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.xml
+C:\Users\guptap\Documents\CS356\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
